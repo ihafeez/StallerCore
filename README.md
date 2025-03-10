@@ -95,6 +95,6 @@ StellarCore is open-source under the MIT License.
 🙏 Acknowledgments
 
 DeepSeek for AI-powered architectural guidance.
-Boost Community for foundational libraries.
+
 
 
